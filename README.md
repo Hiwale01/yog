@@ -3,6 +3,8 @@
   <img src="https://github.com/akhilchibber/Yoga-Pose-Detection/blob/main/YOGA_POSE_DETECTION.jpg?raw=true" alt="earthml Logo">
 </p>
 
+model : https://drive.google.com/file/d/1T17tPxJ_PXwa2iZVrX2OfMbDseYnr9p5/view?usp=drive_link
+
 ## Overview
 This repository contains a Jupyter Notebook for a project focused on developing a deep learning model to classify images into different yoga poses. The project uses convolutional neural networks (CNNs) and transfer learning techniques to distinguish among five yoga poses including the downward dog, goddess, tree, plank, and warrior poses.
 
